@@ -1,0 +1,5 @@
+name: Tablist
+version: ${project.version}
+main: es.hulk.tablist.Tablist
+description: A Custom Tablist plugin made by Hulk#0226
+author: Hulk
